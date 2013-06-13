@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primeras_Pruebas", "Primeras_Pruebas\Primeras_Pruebas.csproj", "{FFCF8A88-BC52-4CF7-AED6-DAD993873517}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tateti", "ConsoleApplication1\Tateti.csproj", "{82ADA3B2-6BB4-48DA-8EB9-8CA079DDD880}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tateti", "Tateti\Tateti.csproj", "{82ADA3B2-6BB4-48DA-8EB9-8CA079DDD880}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

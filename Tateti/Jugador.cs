@@ -3,6 +3,8 @@ using System.Collections;
 
 namespace tateti
 {
+    //declaración de la propiedad que alamcena el tipo de ficha
+    //del jugador
     public class Jugador
     {
         public string tipo_ficha;

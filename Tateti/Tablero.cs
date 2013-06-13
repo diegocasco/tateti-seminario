@@ -5,8 +5,12 @@ namespace tateti
 {
     public class Tablero
     {
+        //declarando el diccionario hash que manejará
+        //las posiciones del tablero
         public Hashtable posiciones;
 
+        //metodo constructor que inicializa las posiciones
+        //con un valor vacio
         public Tablero()
         {
             posiciones = new Hashtable();
