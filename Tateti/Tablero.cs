@@ -17,6 +17,7 @@ namespace tateti
             for (int x = 1; x < 10; x++)
                 posiciones.Add(x, " ");
         }
+        
         public void PintarTablero()
         {
             Console.Clear();

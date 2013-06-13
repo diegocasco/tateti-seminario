@@ -5,3 +5,8 @@ G:\2013\Seminario_2013_CascoDiego\Seminario_2013\ConsoleApplication1\obj\x86\Deb
 G:\2013\Seminario_2013_CascoDiego\Seminario_2013\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
 F:\2013\Seminario_2013_CascoDiego\Seminario_2013\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 F:\2013\Seminario_2013_CascoDiego\Seminario_2013\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+F:\2013\Seminario_2013_CascoDiego\Seminario_2013\Tateti\bin\Debug\Tateti.exe
+F:\2013\Seminario_2013_CascoDiego\Seminario_2013\Tateti\bin\Debug\Tateti.pdb
+F:\2013\Seminario_2013_CascoDiego\Seminario_2013\Tateti\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2013\Seminario_2013_CascoDiego\Seminario_2013\Tateti\obj\x86\Debug\Tateti.exe
+F:\2013\Seminario_2013_CascoDiego\Seminario_2013\Tateti\obj\x86\Debug\Tateti.pdb

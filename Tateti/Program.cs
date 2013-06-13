@@ -7,11 +7,6 @@ namespace tateti
     {
         public static void Main(string[] args)
         {
-            //declaramos e inicializamos los objetos
-            Tablero tablero = new Tablero();
-            Jugador jugador1 = new Jugador("X");
-            Jugador jugador2 = new Jugador("O");
-            //inicializamos las variables
             int jugador_actual = 1;
             int ficha_actual = 1;
             
@@ -29,11 +24,7 @@ namespace tateti
                 int posicion_elegida = Convert.ToInt32(Console.ReadLine());
                 //imprimiendo el tipo ficha apropiado según el 
                 //jugador actual
-                if (jugador_actual == 1)
-                    tablero.posiciones[posicion_elegida] = jugador1.tipo_ficha;
-                else
-                    tablero.posiciones[posicion_elegida] = jugador2.tipo_ficha;
-
+                
                 jugador_actual++;
 
                 if (jugador_actual == 3)
