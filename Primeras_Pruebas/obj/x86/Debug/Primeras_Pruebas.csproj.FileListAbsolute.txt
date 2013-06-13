@@ -1,0 +1,10 @@
+F:\2013\Seminario_2013_CascoDiego\Seminario_2013\Primeras_Pruebas\bin\Debug\Primeras_Pruebas.exe
+F:\2013\Seminario_2013_CascoDiego\Seminario_2013\Primeras_Pruebas\bin\Debug\Primeras_Pruebas.pdb
+F:\2013\Seminario_2013_CascoDiego\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2013\Seminario_2013_CascoDiego\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.exe
+F:\2013\Seminario_2013_CascoDiego\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.pdb
+G:\2013\Seminario_2013_CascoDiego\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.exe
+G:\2013\Seminario_2013_CascoDiego\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\Primeras_Pruebas.pdb
+G:\2013\Seminario_2013_CascoDiego\Seminario_2013\Primeras_Pruebas\bin\Debug\Primeras_Pruebas.exe
+G:\2013\Seminario_2013_CascoDiego\Seminario_2013\Primeras_Pruebas\bin\Debug\Primeras_Pruebas.pdb
+G:\2013\Seminario_2013_CascoDiego\Seminario_2013\Primeras_Pruebas\obj\x86\Debug\ResolveAssemblyReference.cache
