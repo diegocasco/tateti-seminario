@@ -13,14 +13,50 @@ namespace tateti
         public Jugador jugador1;
         public Jugador jugador2;
                     
-            public Juego ()
+        public Juego ()
         {
-                //declaramos las propiedades
+             //declaramos las propiedades
              tablero = new Tablero ();
              jugador1= new Jugador("X");
              jugador2= new Jugador("O");
         }
-        public void PintarTablero()
+        public int SeleccionarFicha(int jugador)
+        {
+            Console.Write("Jugador {0}: intrese el número de ficha a mover: ", jugador);
+            int ficha_a_mover = Convert.ToInt32(Console.ReadLine());
+            return ficha_a_mover;
+            
+        }
+        public int SeleccionarPosicion(int jugador, int ficha)
+        {
+            int posicion_elegida = 0;
+            do
+            {
+                Console.Write("Jugador {0}: ingrese posición para la ficha {1}:", jugador, ficha);
+                try
+                {
+                    posicion_elegida = Convert.ToInt32(Console.ReadLine());
+                }
+                catch
+                {
+                    posicion_elegida = 0;
+                    Console.WriteLine("Error, se esperaba que ingrese un valor");
+                }
+                if (posicion_elegida < 1 || posicion_elegida > 9)
+                {
+                    Console.WriteLine("Error, posición no válida");
+                    Console.ReadLine();
+                }
+            } while (posicion_elegida < 1 || posicion_elegida > 9);
+            {
+                Console.WriteLine("Error, posición no válida");
+                Console.ReadLine();
+                SeleccionarPosicion(jugador, ficha);
+            }
+            return posicion_elegida;
+ 
+        }
+            public void PintarTablero()
         {
             tablero.Limpiar();
             foreach (DictionaryEntry ficha in jugador1.fichas)

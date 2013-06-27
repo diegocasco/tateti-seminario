@@ -19,8 +19,7 @@ namespace tateti
         }
         public void Limpiar()
         {
-            posiciones = new Hashtable();
-            for (int x = 1; x < 10; x++)
+                for (int x = 1; x < 10; x++)
                 posiciones[x]= "  ";
         }
         
